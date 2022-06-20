@@ -3,8 +3,8 @@
   color: hsl(0, 100%, 50%);
 }
 
-.para {
-  font-size: 22px;
+.small-para {
+  font-size: 14px;
 }
 
 .para {
@@ -18,13 +18,9 @@
 } 
 
 .button {
-  background-color: white; 
-  color: black; 
-  font-size:20px;
-} 
-
-.button cancel { 
-  background-color: white;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  font-size: 20px;
 }
 
 .child {
